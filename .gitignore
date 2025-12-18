@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+dist/
+build/
+*.min.js
+*.min.css
+
+# IDE
+.vscode
+.idea
+*.code-workspace
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Downloaded exports
+*.json
+*.export
+
+# System
+.env
+.env.local
+.env.*.local
